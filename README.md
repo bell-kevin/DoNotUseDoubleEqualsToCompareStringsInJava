@@ -3,6 +3,8 @@ DoNotUseDoubleEqualsToCompareStringsInJava
 
 https://www.geeksforgeeks.org/difference-between-and-equals-method-in-java/
 
+https://www.javatpoint.com/string-pool-in-java
+
 // Java program to understand
 // the concept of == operator
  
