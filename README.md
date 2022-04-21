@@ -1,0 +1,2 @@
+# DoNotUseDoubleEqualsToCompareStringsInJava
+DoNotUseDoubleEqualsToCompareStringsInJava
