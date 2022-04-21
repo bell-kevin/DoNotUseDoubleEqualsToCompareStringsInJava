@@ -90,3 +90,15 @@ false
 false
 false
 true
+
+
+
+Explanation: Here, we are using the .equals method to check whether two objects contain the same data or not. 
+
+ 
+
+    In the above example, we create 3 Thread objects and 2 String objects.
+    In the first comparison, we check whether t1 == t3 or not. As we know that both t1 and t3 point to the same object. That’s why it returns true.
+    In the second comparison, we are using the operator “==” for comparing the String Objects and not the contents of the objects. Here, both the objects are different, and hence the outcome of this comparison is “False.”
+    When we are comparing 2 String objects by .equals() operator, then we are checking that is both objects contain the same data or not.
+    Both the objects contain the same String, i.e., GEEKS. That’s why it returns true.
